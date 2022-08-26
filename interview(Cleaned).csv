@@ -1,0 +1,941 @@
+Client_name,Industry,Closed_pos,Interview_type,Gender,Curr_loc,Curr_job_loc,Interview_venue,Permission_status,Unscd_meet_status,Followup_status,AltNum_status,Resume_status,Venue_status,Call_letter_status,Ex_attend,Obs_attend,Matital_status,Skill
+Hospira,Pharmaceuticals,Non-Routine,scheduled_walkin,Male,Chennai,hosur,hosur,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Routine
+Hospira,Pharmaceuticals,Non-Routine,scheduled_walkin,Male,Chennai,bangalore,hosur,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Routine
+Hospira,Pharmaceuticals,Non-Routine,scheduled_walkin,Male,Chennai,chennai,hosur,no,no,no,no,no,no,no,uncertain,no,Single,Routine
+Hospira,Pharmaceuticals,Non-Routine,scheduled_walkin,Male,Chennai,chennai,hosur,yes,yes,no,yes,no,yes,yes,uncertain,no,Single,Routine
+Hospira,Pharmaceuticals,Non-Routine,scheduled_walkin,Male,Chennai,bangalore,hosur,yes,yes,yes,yes,yes,yes,yes,uncertain,no,Married,Routine
+Aon Hewitt,IT,Non-Routine,scheduled_walkin,Male,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Routine
+Aon Hewitt,IT,Non-Routine,scheduled_walkin,Male,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Routine
+Aon Hewitt,IT,Non-Routine,scheduled_walkin,Female,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Routine
+Aon Hewitt,IT,Non-Routine,scheduled_walkin,Male,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Routine
+Aon Hewitt,IT,Non-Routine,scheduled_walkin,Female,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Routine
+UST,IT,Non-Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Routine
+UST,IT,Non-Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,no,yes,no,yes,yes,yes,yes,uncertain,no,Single,Routine
+UST,IT,Non-Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Routine
+UST,IT,Non-Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,yes,yes,yes,yes,yes,no,uncertain,yes,Single,Routine
+UST,IT,Non-Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Routine
+UST,IT,Non-Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Routine
+UST,IT,Non-Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Routine
+UST,IT,Non-Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,no,yes,yes,yes,yes,yes,yes,no,no,Single,Routine
+UST,IT,Non-Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Routine
+UST,IT,Non-Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Routine
+UST,IT,Non-Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,yes,yes,yes,yes,yes,no,no,no,Single,Routine
+UST,IT,Non-Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Routine
+UST,IT,Non-Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Routine
+UST,IT,Non-Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Routine
+UST,IT,Non-Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,no,yes,yes,uncertain,no,Single,Routine
+UST,IT,Non-Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,yes,yes,yes,yes,yes,no,no,no,Single,Routine
+UST,IT,Non-Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,yes,yes,yes,yes,yes,no,no,no,Married,Routine
+UST,IT,Non-Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,yes,yes,yes,no,yes,no,no,no,Single,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,no,uncertain,no,Single,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,no,yes,no,no,Married,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,no,yes,no,no,Married,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,no,yes,yes,no,no,Married,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Routine
+Standard Chartered Bank,BFSI,Non-Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,no,no,no,yes,Married,Routine
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,no,no,no,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,no,yes,yes,no,no,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,no,no,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,no,yes,no,no,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,no,yes,no,no,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,no,no,no,no,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,yes,no,yes,no,yes,yes,no,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,no,yes,no,yes,no,no,no,uncertain,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,yes,yes,yes,no,no,no,no,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,no,yes,yes,yes,no,no,no,no,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+ANZ,BFSI,Non-Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+ANZ,BFSI,Non-Routine,scheduled,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+ANZ,BFSI,Non-Routine,scheduled,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+ANZ,BFSI,Non-Routine,scheduled,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Fresher
+Standard Chartered Bank,BFSI,Routine,walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Fresher
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,yes,yes,yes,yes,yes,yes,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,yes,yes,yes,yes,yes,yes,uncertain,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,no,yes,no,yes,yes,uncertain,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,no,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,uncertain,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,no,yes,yes,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Testing
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Testing
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,Testing
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Testing
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Testing
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Testing
+Standard Chartered Bank,BFSI,Routine,scheduled,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,Testing
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Testing
+Standard Chartered Bank,BFSI,Routine,scheduled,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Testing
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,Testing
+Standard Chartered Bank,BFSI,Routine,scheduled,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Testing
+Standard Chartered Bank,BFSI,Routine,scheduled,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Testing
+Standard Chartered Bank,BFSI,Routine,scheduled,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Testing
+Standard Chartered Bank Chennai,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank Chennai,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank Chennai,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank Chennai,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank Chennai,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank Chennai,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank Chennai,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank Chennai,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank Chennai,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank Chennai,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank Chennai,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank Chennai,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank Chennai,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank Chennai,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank Chennai,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank Chennai,BFSI,Routine,scheduled_walkin,Male,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank Chennai,BFSI,Routine,scheduled_walkin,Female,bangalore,bangalore,bangalore,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Aon hewitt Gurgaon,IT,Routine,scheduled,Male,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Aon hewitt Gurgaon,IT,Routine,scheduled,Male,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,no,yes,yes,yes,yes,yes,uncertain,no,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Oracle
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,Oracle
+Aon Hewitt,IT,Routine,scheduled,Female,gurgaon,gurgaon,gurgaon,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Aon Hewitt,IT,Routine,scheduled,Female,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,no,uncertain,no,Single,Java
+Aon Hewitt,IT,Routine,scheduled,Male,delhi,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Astrazeneca,Pharmaceuticals,Non-Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Testing
+Astrazeneca,Pharmaceuticals,Non-Routine,scheduled,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Testing
+Astrazeneca,Pharmaceuticals,Non-Routine,scheduled,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Testing
+Astrazeneca,Pharmaceuticals,Non-Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Testing
+Astrazeneca,Pharmaceuticals,Non-Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Testing
+Astrazeneca,Pharmaceuticals,Non-Routine,scheduled,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,Testing
+Astrazeneca,Pharmaceuticals,Non-Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Single,Testing
+Astrazeneca,Pharmaceuticals,Non-Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Testing
+Astrazeneca,Pharmaceuticals,Non-Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Testing
+Astrazeneca,Pharmaceuticals,Non-Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Testing
+Astrazeneca,Pharmaceuticals,Non-Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Testing
+Astrazeneca,Pharmaceuticals,Non-Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,Testing
+Astrazeneca,Pharmaceuticals,Non-Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Testing
+Astrazeneca,Pharmaceuticals,Non-Routine,scheduled,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,Testing
+Astrazeneca,Pharmaceuticals,Non-Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Testing
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Operations
+Flextronics,Electronics,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Flextronics,Electronics,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Single,Java
+Flextronics,Electronics,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,no,yes,yes,yes,yes,uncertain,yes,Married,Java
+Flextronics,Electronics,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,Java
+Flextronics,Electronics,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,Java
+Flextronics,Electronics,Routine,scheduled,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,no,uncertain,no,Married,Java
+Flextronics,Electronics,Routine,scheduled,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Flextronics,Electronics,Routine,scheduled,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Flextronics,Electronics,Routine,scheduled,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Flextronics,Electronics,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Single,Java
+Flextronics,Electronics,Routine,scheduled,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Flextronics,Electronics,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,uncertain,yes,Married,Java
+Flextronics,Electronics,Routine,scheduled,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,Java
+Flextronics,Electronics,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Flextronics,Electronics,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Flextronics,Electronics,Routine,scheduled,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,Java
+Flextronics,Electronics,Routine,scheduled,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,Java
+Flextronics,Electronics,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,Java
+Flextronics,Electronics,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,Operations
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Operations
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,no,yes,yes,yes,yes,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,uncertain,yes,Single,KYC
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,KYC
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,yes,yes,yes,yes,yes,yes,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Female,Chennai,chennai,chennai,no,yes,yes,yes,no,yes,no,uncertain,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Hospira,Pharmaceuticals,Routine,walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Single,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Single,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Single,Java
+Hospira,Pharmaceuticals,Routine,walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Single,Java
+Hospira,Pharmaceuticals,Routine,walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Married,Java
+Hospira,Pharmaceuticals,Routine,walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,no,no,Single,Java
+Williams Lea,IT,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Williams Lea,IT,Routine,scheduled,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Hewitt,IT,Routine,scheduled,Female,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Testing
+Hewitt,IT,Routine,scheduled,Female,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Testing
+Hewitt,IT,Routine,scheduled,Female,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Testing
+Hewitt,IT,Routine,scheduled,Male,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Testing
+Hewitt,IT,Routine,scheduled,Male,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Testing
+Hewitt,IT,Routine,scheduled,Male,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Testing
+Hewitt,IT,Routine,scheduled,Male,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Testing
+Hewitt,IT,Routine,scheduled,Female,gurgaon,gurgaon,gurgaon,no,yes,yes,yes,no,yes,no,no,no,Single,Testing
+Hewitt,IT,Routine,scheduled,Female,gurgaon,gurgaon,gurgaon,no,no,yes,yes,no,yes,yes,no,no,Single,Testing
+Hewitt,IT,Routine,scheduled,Female,gurgaon,gurgaon,gurgaon,no,yes,yes,yes,yes,yes,no,no,no,Single,Testing
+Hewitt,IT,Routine,scheduled,Female,gurgaon,gurgaon,gurgaon,no,yes,yes,yes,no,yes,no,no,no,Single,Testing
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Male,Chennai,chennai,chennai,no,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Female,Chennai,chennai,chennai,no,yes,yes,yes,yes,yes,no,no,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled,Female,Chennai,chennai,chennai,no,yes,yes,yes,yes,yes,yes,no,no,Single,Java
+Aon Hewitt,IT,Routine,scheduled,Male,noida,noida,noida,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Aon Hewitt,IT,Routine,scheduled,Male,noida,noida,noida,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Aon Hewitt,IT,Routine,scheduled,Male,noida,noida,noida,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Aon Hewitt,IT,Routine,scheduled,Male,noida,noida,noida,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Aon Hewitt,IT,Routine,scheduled,Female,noida,noida,noida,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Aon Hewitt,IT,Routine,scheduled,Female,noida,noida,noida,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Aon Hewitt,IT,Routine,scheduled,Male,noida,noida,noida,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Aon Hewitt,IT,Routine,scheduled,Male,noida,noida,noida,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,no,no,no,no,no,no,no,uncertain,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Female,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Married,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,Single,Java
+Standard Chartered Bank,BFSI,Routine,scheduled_walkin,Male,Chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,Single,Java

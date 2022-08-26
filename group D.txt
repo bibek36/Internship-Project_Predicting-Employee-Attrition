@@ -1,0 +1,131 @@
+1> Who will use / how this prediction will add value
+ ->It will be used by the STAFFING AGENCY to determine whether the choosen candidate will actually attend his/her respective interview or not.
+
+2> define +ve case /-ve case(classification)
+ ->'1' means "Candidate will attend his/her interview"
+ ->'0' means "Candidate will not attend his/her interview"
+
+3> what metric is appropriate(accuracy,recall,precision,etc)
+ ->Precision as we need to minimize the case of FALSE POSITIVE(i.e,need to increase precision): 
+	Candidate will not attend the interview but the model predicted he/she will attend the interview.
+ ->AUC.
+
+4> header  present ? column names should be short(renaming may be required)\
+	 Headers:												renaming them to:
+ 	1.'Date of Interview'											1.'Interview_date'
+	2.'Client name'												2.'Client_name'
+ 	3.'Industry'												3.'Industry'
+ 	4.'Location'												4.'Location'
+	5.'Position to be closed'										5.'Closed_pos'   
+ 	6.'Nature of Skillset'											6.'Skillset'
+	7.'Interview Type'											7.'Interview_type'
+	8.'Name(Cand ID)' 											8.'Cand_id'
+	9.'Gender' 												9.'Gender'
+	10.'Candidate Current Location'      									10.'Curr_loc'		
+	11.'Candidate Job Location' 										11.'Curr_job_loc'
+ 	12.'Interview Venue'											12.'Interview_venue'		
+	13.'Candidate Native location'										13.'Native_loc'
+	14.'Have you obtained the necessary permission to start at the required time'				14.'Permission_status'
+	15.'Hope there will be no unscheduled meetings'								15.'Unscd_meet_status'
+	16.'Can I Call you three hours before the interview and follow up on your attendance for the interview'	16.'Followup_status'
+	17.'Can I have an alternative number/ desk number. I assure you that I will not trouble you too much'	17.'AltNum_status'
+ 	18.'Have you taken a printout of your updated resume. Have you read the JD and understood the same'	18.'Resume_status'
+ 	19.'Are you clear with the venue details and the landmark.'						19.'Venue_stasus'
+ 	20.'Has the call letter been shared'									20.'Call_letter_status'
+ 	21.'Expected Attendance'										21.'Ex_attend'
+ 	22.'Observed Attendance'										22.'Obs_attend'
+ 	23.'Marital Status'											23.'Matital_status'		
+
+5> check which column has null(na)(percentage)[IMPORTANT]
+ ->	Date of Interview                                                                                    0.00081
+	Client name                                                                                          0.00000
+	Industry                                                                                             0.00081
+	Location                                                                                             0.00081
+	Position to be closed                                                                                0.00081
+	Nature of Skillset                                                                                   0.00081
+	Interview Type                                                                                       0.00081
+	Name(Cand ID)                                                                                        0.00081
+	Gender                                                                                               0.00081
+	Candidate Current Location                                                                           0.00081
+	Candidate Job Location                                                                               0.00081
+	Interview Venue                                                                                      0.00081
+	Candidate Native location                                                                            0.00081
+	Have you obtained the necessary permission to start at the required time                             0.16613
+	Hope there will be no unscheduled meetings                                                           0.20097
+	Can I Call you three hours before the interview and follow up on your attendance for the interview   0.20097
+	Can I have an alternative number/ desk number. I assure you that I will not trouble you too much     0.20097
+	Have you taken a printout of your updated resume. Have you read the JD and understood the same       0.20178
+	Are you clear with the venue details and the landmark.                                               0.20178
+	Has the call letter been shared                                                                      0.19935
+	Expected Attendance                                                                                  0.00486
+	Observed Attendance                                                                                  0.00081
+	Marital Status                                                                                       0.00081
+
+
+6> Find your X and y(target)
+ ->Predictors are:
+	X(Data)=>'Date of Interview'
+ 		'Client name'
+ 		'Industry'
+ 		'Location'
+ 		'Position to be closed'
+ 		'Nature of Skillset'
+ 		'Interview Type'
+ 		'Name(Cand ID)'
+		'Gender'
+ 		'Candidate Current Location'
+ 		'Candidate Job Location'
+ 		'Interview Venue'
+ 		'Candidate Native location'
+ 		'Have you obtained the necessary permission to start at the required time'
+ 		'Hope there will be no unscheduled meetings'
+ 		'Can I Call you three hours before the interview and follow up on your attendance for the interview'
+ 		'Can I have an alternative number/ desk number. I assure you that I will not trouble you too much'
+ 		'Have you taken a printout of your updated resume. Have you read the JD and understood the same'
+ 		'Are you clear with the venue details and the landmark.'
+ 		'Has the call letter been shared'
+ 		'Expected Attendance'
+ 		'Marital Status'
+	
+	y(Target column)=>'Observed Attendance' 
+
+
+7> how many numeric and categorical(string)
+ ->all are categorical(strings) columns
+
+8> for all categorical , find there labels
+ ->{'Date of Interview',
+    'Client name',
+    'Industry',
+    'Location',
+    'Position to be closed',
+    'Nature of Skillset',
+    'Interview Type',
+    'Name(Cand ID)',
+    'Gender',
+    'Candidate Current Location',
+    'Candidate Job Location',
+    'Interview Venue',
+    'Candidate Native location',
+    'Have you obtained the necessary permission to start at the required time',
+    'Hope there will be no unscheduled meetings',
+    'Can I Call you three hours before the interview and follow up on your attendance for the interview',
+    'Can I have an alternative number/ desk number. I assure you that I will not trouble you too much',
+    'Have you taken a printout of your updated resume. Have you read the JD and understood the same',
+    'Are you clear with the venue details and the landmark.',
+    'Has the call letter been shared',
+    'Expected Attendance',
+    'Observed Attendance',
+    'Marital Status'
+   }	
+
+9> in classification : distribution of y
+ ->distribution of 1/0 in 'Observed Attendance'(Target column): 
+	1	-   0.63504
+	0	-   0.36496
+
+10> are all continuous columns have same scale ?
+ -> NO column is continous,all columns are categorical.
+
+
+
